@@ -1,0 +1,13 @@
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\bin\Debug\netcoreapp3.1\26_11_2020Lesson.exe
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\bin\Debug\netcoreapp3.1\26_11_2020Lesson.deps.json
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\bin\Debug\netcoreapp3.1\26_11_2020Lesson.runtimeconfig.json
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\bin\Debug\netcoreapp3.1\26_11_2020Lesson.runtimeconfig.dev.json
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\bin\Debug\netcoreapp3.1\26_11_2020Lesson.dll
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\bin\Debug\netcoreapp3.1\26_11_2020Lesson.pdb
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\obj\Debug\netcoreapp3.1\26_11_2020Lesson.csprojAssemblyReference.cache
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\obj\Debug\netcoreapp3.1\26_11_2020Lesson.csproj.CoreCompileInputs.cache
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\obj\Debug\netcoreapp3.1\26_11_2020Lesson.AssemblyInfoInputs.cache
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\obj\Debug\netcoreapp3.1\26_11_2020Lesson.AssemblyInfo.cs
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\obj\Debug\netcoreapp3.1\26_11_2020Lesson.dll
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\obj\Debug\netcoreapp3.1\26_11_2020Lesson.pdb
+C:\Users\Кана\source\repos\26_11_2020Lesson\26_11_2020Lesson\obj\Debug\netcoreapp3.1\26_11_2020Lesson.genruntimeconfig.cache
